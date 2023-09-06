@@ -1,4 +1,5 @@
 import { changeView } from './controlador-vista/index.js'
+//import './fireBase.js';
 
 
 const init = () => {
